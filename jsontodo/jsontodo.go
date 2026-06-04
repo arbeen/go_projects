@@ -15,8 +15,11 @@ type Todo struct {
 
 func addTodo(todo string) error {
 	return nil
-
 }
+
+// TODO: mark as done
+// TODO: printTodos
+// TODO: deleteTodo
 
 func main() {
 	fmt.Println("Choose an action:")
